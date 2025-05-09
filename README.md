@@ -10,7 +10,7 @@ Register Spacerace [Here](https://spacerace.entity.global/?referral=GLBODZSU)
 - Auto Answer Questions
 - Auto Onboarding
 - Support Gmail Forwarder Email
-- Support capsolver / 2captcha
+- Support capsolver / 2captcha / anticaptcha
 - Need Proxy
 
 ## Runner
